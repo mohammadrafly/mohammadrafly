@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact **I miss her**
 
-<div class="tenor-gif-embed" data-postid="25011983" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-rafly-a03aa91aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-rafly-a03aa91aa" height="30" width="40" /></a>
